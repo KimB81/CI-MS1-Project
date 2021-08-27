@@ -21,10 +21,10 @@ This project is for educational purposes and can not be used as a template for a
     - [Colours](#colors)
 - [Technology](#technology)
 - [Testing](#testing)
+    - [Validation](#validation)
     - [Functionality](#functionality)
     - [Compatability](#compatability)
     - [Performance](#performance)
-    - [Validation](#validation)
     - [Bugs](#bugs)
 - [Deployment](#deployment)
 - [Credit](#credit)
@@ -37,7 +37,9 @@ This project is for educational purposes and can not be used as a template for a
 ### __UX__
 - __Goals__
     - ___Website Owner___
-        - As the website owner, I would like a website that is designed with the intention of providing some comic relief to people that wish to relax after a hectic day or for someone who enjoys seeing the funny side to pets. The owner can add new content easily and allow users to signup, or update their email address, to receive a weekly or monthly newsletter containing a sample of the new content from the past week or month.
+        - As the website owner, I would like a website that is designed with the intention of providing some comic relief to people that wish to relax after a hectic day or for someone who enjoys seeing the funny side to pets. 
+        - As the website owner, I want to be able to allow users to signup, or update their email address, to receive a weekly or monthly newsletter containing a sample of the new content from the past week or month.
+        - As the website owner, I want to be able to have an easy to navigate website that provides a good iser experience.
     - ___Website User___
         - _New Website User_
             - As a new website user, I would like to be able to peruse images and videos of pets being funny.
@@ -99,6 +101,20 @@ This project is for educational purposes and can not be used as a template for a
     - _Font_: To be decided.
     - _Link_: To be decided.
 
-    [Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
+
+---
+### __Technology__
+- ___[Balsamiq](https://balsamiq.com/)___: A useful tool for generating wireframes.
+- ___[Bootstrap](https://getbootstrap.com/)___: A framework to assist in making the website responsive on any device.
+- ___[HTML](https://en.wikipedia.org/wiki/HTML)___: A language used for the structure of the website.
+- ___[CSS](https://en.wikipedia.org/wiki/CSS)___: A language used for the styling of the website.
+- ___[Git](https://git-scm.com/)___: A useful tool to track versions of the website.
+- ___[GitHub](https://github.com/)___: A useful tool to host the project in a remote location.
+- ___[GitPod](https://www.gitpod.io/)___: A useful tool for creating and editing the code for the website.
+- ___[Google Fonts](https://fonts.google.com/)___: A resource for different fonts.
+- ___[Font Awesome](https://fontawesome.com/)___: A resource for icons.
+
+[Back to Table of Contents](#table-of-contents)
 
 ---
