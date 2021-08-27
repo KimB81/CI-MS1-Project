@@ -118,3 +118,19 @@ This project is for educational purposes and can not be used as a template for a
 [Back to Table of Contents](#table-of-contents)
 
 ---
+### __Testing__
+- ___Validation Testing___
+    - _[HTML Validation Link]()_ Validated [here](https://validator.w3.org/)
+    - _[CSS Validation Link]()_ Validated [here](http://jigsaw.w3.org/css-validator/)
+- ___Functionality___
+    - My functionality testing will be done using differnet browsers and their Developer tools throughout the project to test and resolve any issues with responsiveness or styling.
+- ___Compatibility___
+    - I plan on testing the functionality over different browsers and mobile devices. I will list the browsers and devices here.
+- ___Performance___
+    - I plan on utilising [Googles Lighthouse](https://developers.google.com/web/tools/lighthouse) feature to check on my websites performance throughout the project and adjust things as necessary.
+- ___Bugs___
+    - Here I will document any bugs I encounter and how I fixed them, if applicable
+
+[Back to Table of Contents](#table-of-contents)
+
+---
