@@ -34,28 +34,28 @@ This project is for educational purposes and can not be used as a template for a
 
 ---
 
-### UX
+### __UX__
 - __Goals__
-    - __Website Owner__
+    - ___Website Owner___
         - As the website owner, I would like a website that is designed with the intention of providing some comic relief to people that wish to relax after a hectic day or for someone who enjoys seeing the funny side to pets. The owner can add new content easily and allow users to signup, or update their email address, to receive a weekly or monthly newsletter containing a sample of the new content from the past week or month.
-    - __Website User__
-        - __New Website User__
+    - ___Website User___
+        - _New Website User_
             - As a new website user, I would like to be able to peruse images and videos of pets being funny.
             - As a new website user, I would like to signup to a newsletter that keeps me updated with new content.
-        - __Returning Website User__
+        - _Returning Website User_
             - As a returning website user, I would like to peruse the latest content.
             - As a returning website user, I would like to update the email address I provided for the newsletter.
 - __User Stories__
-    - __Owner__
+    - ___Owner___
         - As the website owner, I would like to collate and showcase some of the funny pet pictures and videos from around the internet in one place to provide people with some much needed comic relief.
         - As the website owner, I would like to provide a place where my users can provide, or update, their email address to receive a weekly or monthly newsletter containing the latest content.
         - As a website owner, I would like to provide my clients with a clean and easy to navigate website.
-    - __User__
-        - __New User__
+    - ___User___
+        - _New User_
             - As a new user, I would like to peruse some images and videos that contain funny pets.
             - As a new user, I would like to be able to signup to a weekly or monthly newsletter.
             - As a new user, I would like to be able to navigate around the website easily.
-        - __Returning User__
+        - _Returning User_
             - As a returning user, I would like to peruse the latest content of funny pets.
             - As a returning user, I would like to be able to update the email address associated with the newsletter mailing list.
             - As a returning user, I would like to navigate around the website as easily as I did the first time.
@@ -63,27 +63,42 @@ This project is for educational purposes and can not be used as a template for a
 [Back to Table of Contents](#table-of-contents)
 
 ---
-### Features
-- __Existing Features__
-    - __Navigation Bar__
+### __Features__
+- ___Existing Features___
+    - _Navigation Bar_
         - This will contain the website logo to the left.
         - This will be used for ease of navigation through the site with links to Home, Gallery and Sign Up to the right.
         - This will remain static at the top of the website.
         - This will be responsive adjusting to the device being used.
-    - __Gallery__
+    - _Gallery_
         - This will showcase some of the funny images and videos of pets found from searching the internet.
-    - __Sign Up__
+    - _Sign Up_
         - This will allow the ability to signup to a weekly or monthly newsletter that provides an update of the newest website content.
-- __Features to Implement__
-    - __Search Bar__
+- ___Features to Implement___
+    - _Search Bar_
         - This will allow users to search for images or videos that cover a specific search term.
-    - __Links Area__
+    - _Links Area_
         - This will provide links to websites that have too many images to be copied to the gallery.
-    - __Feature my own furry friend__
+    - _Feature my own furry friend_
         - This will allow users the ability to submit images of their own pets for others to peruse.
-    - __Admin Area__
+    - _Admin Area_
         - This will allow the Owner to upload the images and videos quicker and easier.
 
 [Back to Table of Contents](#table-of-contents)
+
+---
+### __Styling__
+- ___Structure___
+    - The website is designed to be easy and user-friendy whether viewed on a desktop, a tablet or a mobile device. There should be minimal difference for a user providing a fantastic experience.
+    - The website will be a 3 page scrollable site with the Navigation Bar remaining static at the top so the links are easy to access.
+    - The website will contain areas for navigation, a gallery and a place to signup to a newsletter.
+- ___Typography___
+    - _Main Font_: To be decided.
+- ___Colours___
+    - _Background_: To be decided.
+    - _Font_: To be decided.
+    - _Link_: To be decided.
+
+    [Back to Table of Contents](#table-of-contents)
 
 ---
