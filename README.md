@@ -134,3 +134,35 @@ This project is for educational purposes and can not be used as a template for a
 [Back to Table of Contents](#table-of-contents)
 
 ---
+### __Deployment__
+To deploy my project to GitHub Pages, I will take the following steps:
+1. Login to [GitHub](https://github.com).
+2. Navigate to the relevant repository.
+3. Click Settings.
+4. Scroll down and Click Pages on the left hand menu.
+5. Under the option for Source, select the Master Branch.
+6. Click Save.
+7. The page should auto refresh and show a confirmation message and link.
+8. Add the link to the About section for the repository.
+
+[Back to Table of Contents](#table-of-contents)
+
+---
+### __Credit__
+- To create this project I used the [GitHub Full Template](https://github.com/Code-Institute-Org/gitpod-full-template) provided by [Code Institute](https://codeinstitute.net/). 
+- ___Code___
+    - I used the [GitHub Guide for Mastering Markdown](https://guides.github.com/features/mastering-markdown/) to help with the formatting of this README.md.
+- ___Content___
+    - Here I will credit any third party content I use for Krazy Kanines.
+- ___Media___
+    - Here I will credit all the images and other media used in Krazy Kanines.
+
+[Back to Table of Contents](#table-of-contents)
+
+---
+# Thank you
+Thank you for taking the time to look through my README file for my Krazy Kanines project.
+
+[Back to Table of Contents](#table-of-contents)
+
+---
