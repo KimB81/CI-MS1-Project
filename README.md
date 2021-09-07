@@ -5,7 +5,7 @@ This project is for educational purposes and can not be used as a template for a
 
 [Link to Desktop Wireframes](/workspace/CI-MS1-Project/wireframes/DesktopView.png)
 
-[link to Mobile Wireframes](/workspace/CI-MS1-Project/wireframes/MobileView.png)
+[Link to Mobile Wireframes](/workspace/CI-MS1-Project/wireframes/MobileView.png)
 
 [Link to Live Project in GitHub Pages]()
 
