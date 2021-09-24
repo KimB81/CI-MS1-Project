@@ -99,7 +99,7 @@ This project is for educational purposes and can not be used as a template for a
 - ___Typography___
     - _Main Font_: To be decided.
 - ___Colours___
-    - _Background_: To be decided.
+    - _Background_: Light Grey
     - _Font_: To be decided.
     - _Link_: To be decided.
 
@@ -154,6 +154,7 @@ To deploy my project to GitHub Pages, I will take the following steps:
 - To create this project I used the [GitHub Full Template](https://github.com/Code-Institute-Org/gitpod-full-template) provided by [Code Institute](https://codeinstitute.net/). 
 - ___Code___
     - I used the [GitHub Guide for Mastering Markdown](https://guides.github.com/features/mastering-markdown/) to help with the formatting of this README.md.
+    - I used the [BootStrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/) to help with the creation of this website.
 - ___Content___
     - Here I will credit any third party content I use for Krazy Kanines.
 - ___Media___

@@ -1,0 +1,13 @@
+body {
+    background-color: lightgrey;
+}
+
+/* ---------------------------------------- NAVBAR */
+
+.navbar-brand {
+    font-size: 46px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
