@@ -3,9 +3,9 @@ This is a simple project with the hope to provide people some much needed stress
 
 This project is for educational purposes and can not be used as a template for a business to use. The main aim is to build a responsive website using HTML and CSS as part of the User-Centric Frontend Development Milestone Project for Code Institute. I will also use the Bootstrap framework to keep the website consistent and clear.
 
-[Link to Desktop Wireframes](/workspace/CI-MS1-Project/wireframes/DesktopView.png)
+[Link to Desktop Wireframes](wireframes/DesktopView.png)
 
-[Link to Mobile Wireframes](/workspace/CI-MS1-Project/wireframes/MobileView.png)
+[Link to Mobile Wireframes](wireframes/MobileView.png)
 
 [Link to Live Project in GitHub Pages]()
 
