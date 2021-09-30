@@ -11,3 +11,9 @@ body {
 .navbar-light .navbar-nav .nav-link {
     color: black;
 }
+
+/* ---------------------------------------- INTRODUCTION HEADER */
+
+#heading {
+    padding: 20px;
+}
