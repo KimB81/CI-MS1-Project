@@ -2,18 +2,63 @@ body {
     background-color: lightgrey;
 }
 
+.container-fluid {
+    padding: 0px;
+}
+
 /* ---------------------------------------- NAVBAR */
 
 .navbar-brand {
-    font-size: 46px;
+    font-size: 34px;
+    padding: 0px 20px;
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: black;
+.navbar-toggler {
+    margin: 0px 20px;
 }
 
 /* ---------------------------------------- INTRODUCTION HEADER */
 
 #heading {
-    padding: 20px;
+    padding: 20px 30px 0px;
+}
+
+/* ---------------------------------------- INTRODUCTION SECTION */
+
+.col-12 {
+    padding: 20px 30px;
+}
+
+p {
+    margin: 0px;
+}
+
+/* ------------------------------ RESPONSIVE DIVISION LINE */
+
+.h-div {
+    border-bottom: 1px solid black;
+}
+
+@media (min-width: 768px) {
+    .navbar {
+        padding: 20px;
+    }
+    .navbar-brand {
+        font-size: 46px;
+        padding: 0px 20px;
+        margin: 0px;
+    }
+    .nav-link {
+        margin: 15px;
+    }
+    .container-fluid {
+        padding: 0px 12px;
+    }
+    .h-div {
+        border-right: 2px solid black;
+        border-bottom: none;
+    }
+    #heading {
+        padding: 20px 30px;
+    }
 }
