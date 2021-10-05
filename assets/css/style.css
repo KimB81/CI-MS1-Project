@@ -6,7 +6,7 @@ body {
     padding: 0px;
 }
 
-/* ---------------------------------------- NAVBAR */
+/* ------------------------------------------------------ NAVBAR */
 
 .navbar-brand {
     font-size: 34px;
@@ -14,10 +14,14 @@ body {
 }
 
 .navbar-toggler {
-    margin: 0px 20px;
+    margin: 0px 20px
 }
 
-/* ---------------------------------------- INTRODUCTION HEADER */
+.nav-item {
+    text-align: center;
+}
+
+/* ----------------------------------------- INTRODUCTION HEADER */
 
 #heading {
     padding: 20px 30px 0px;
@@ -33,11 +37,25 @@ p {
     margin: 0px;
 }
 
-/* ------------------------------ RESPONSIVE DIVISION LINE */
+/* ------------------------------------ RESPONSIVE DIVISION LINE */
 
 .h-div {
     border-bottom: 1px solid black;
 }
+
+/* ---------------------------------------------- SPLITTER IMAGE */
+
+#splitter {
+    padding-top: 10px;
+}
+
+/* ----------------------------------------------------- GALLERY */
+
+#gallery {
+    padding: 20px 30px 0px;
+}
+
+/* ---------------------------------- RESPONSIVE DESIGN ELEMENTS */
 
 @media (min-width: 768px) {
     .navbar {
@@ -60,5 +78,9 @@ p {
     }
     #heading {
         padding: 20px 30px;
+    }
+
+    #splitter {
+        padding-top: 20px;
     }
 }
