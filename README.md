@@ -158,7 +158,20 @@ To deploy my project to GitHub Pages, I will take the following steps:
 - ___Content___
     - Here I will credit any third party content I use for Krazy Kanines.
 - ___Media___
-    - Here I will credit all the images and other media used in Krazy Kanines.
+    - _Hero Image:_ Anoir Chafik: https://unsplash.com/photos/2_3c4dIFYFU 
+    - _Splitter Image:_ Bharathi Kannan: https://unsplash.com/photos/rfL-thiRzDs
+    - _Gallery 1:_ Alvan Nee: https://unsplash.com/photos/1VgfQdCuX-4
+    - _Gallery 2:_ Richard Brutyo: https://unsplash.com/photos/Sg3XwuEpybU
+    - _Gallery 3:_ Jametlene Reskp: https://unsplash.com/photos/VDrErQEF9e4
+    - _Gallery 4:_ Judi Neumeyer: https://unsplash.com/photos/ECjHeJtRznQ
+    - _Gallery 5:_ Ben Michel: https://unsplash.com/photos/rBcEMNCcgMg
+    - _Gallery 6:_ Sophia Kunkel: https://unsplash.com/photos/cxlCuypQabs
+    - _Gallery 7:_ Clarke Sanders: https://unsplash.com/photos/nM4gJR-7RWQ
+    - _Gallery 8:_ Jamie Street: https://unsplash.com/photos/MoDcnVRN5JU
+    - _Gallery 9:_ Jean Estrella: https://unsplash.com/photos/yqaTqfoetTY
+    - _Gallery 10:_ Camylla Battani: https://unsplash.com/photos/AoqgGAqrLpU
+    - _Gallery 11:_ Marc Schaefer: https://unsplash.com/photos/WqYSX5yZXgc
+    - _Gallery 12:_ Josh Rakower: https://unsplash.com/photos/zBsXaPEBSeI
 
 [Back to Table of Contents](#table-of-contents)
 

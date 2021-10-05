@@ -52,7 +52,18 @@ p {
 /* ----------------------------------------------------- GALLERY */
 
 #gallery {
-    padding: 20px 30px 0px;
+    padding: 20px 30px;
+}
+
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0px;
+}
+
+#photo img{
+    width: 100%;
 }
 
 /* ---------------------------------- RESPONSIVE DESIGN ELEMENTS */
@@ -79,8 +90,13 @@ p {
     #heading {
         padding: 20px 30px;
     }
-
     #splitter {
         padding-top: 20px;
+    }
+    #gallery {
+        padding: 20px 30px;
+    }
+    #photo {
+        column-count: 4;
     }
 }
