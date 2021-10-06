@@ -1,7 +1,7 @@
-# Krazy Kanines
-This is a simple project with the hope to provide people some much needed stress relief after a hectic day. This is aimed at everyone who wants to enjoy our funny furry friends. This will hopefully be helpful in creating a few minutes of relief from daily life.
+# Krazy 4 K-9s
+This is a simple project with the hope to provide people some much needed stress relief after a hectic day. This is aimed at everyone who wants to enjoy our cute furry friends. This will hopefully be helpful in creating a few minutes of relief from daily life.
 
-This project is for educational purposes and can not be used as a template for a business to use. The main aim is to build a responsive website using HTML and CSS as part of the User-Centric Frontend Development Milestone Project for Code Institute. I will also use the Bootstrap framework to keep the website consistent and clear.
+This project is for educational purposes and can not be used as a template for business use. The main aim is to build a responsive website using HTML and CSS as part of the User-Centric Frontend Development Milestone Project for Code Institute. I will also use the Bootstrap framework to keep the website consistent and clear.
 
 [Link to Desktop Wireframes](wireframes/DesktopView.png)
 
@@ -39,28 +39,28 @@ This project is for educational purposes and can not be used as a template for a
 ### __UX__
 - __Goals__
     - ___Website Owner___
-        - As the website owner, I would like a website that is designed with the intention of providing some comic relief to people that wish to relax after a hectic day or for someone who enjoys seeing the funny side to pets. 
-        - As the website owner, I want to be able to allow users to signup, or update their email address, to receive a weekly or monthly newsletter containing a sample of the new content from the past week or month.
-        - As the website owner, I want to be able to have an easy to navigate website that provides a good iser experience.
+        - As the website owner, I would like a website that is designed with the intention of providing some stress relief to people that wish to relax after a hectic day or for someone who enjoys looking at images of cute dogs. 
+        - As the website owner, I want to be able to allow users to signup, or update their email address, to receive a weekly or monthly newsletter containing a sample of the new content from the past month.
+        - As the website owner, I want to be able to have an easy to navigate website that provides a good user experience.
     - ___Website User___
         - _New Website User_
-            - As a new website user, I would like to be able to peruse images and videos of pets being funny.
+            - As a new website user, I would like to be able to peruse images and videos of cute and funny dogs.
             - As a new website user, I would like to signup to a newsletter that keeps me updated with new content.
         - _Returning Website User_
             - As a returning website user, I would like to peruse the latest content.
             - As a returning website user, I would like to update the email address I provided for the newsletter.
 - __User Stories__
     - ___Owner___
-        - As the website owner, I would like to collate and showcase some of the funny pet pictures and videos from around the internet in one place to provide people with some much needed comic relief.
-        - As the website owner, I would like to provide a place where my users can provide, or update, their email address to receive a weekly or monthly newsletter containing the latest content.
+        - As the website owner, I would like to collate and showcase some of the best dog pictures and videos from around the internet in one place to provide people with some much needed stress relief.
+        - As the website owner, I would like to provide a place where my users can provide, or update, their email address to receive a monthly newsletter containing the latest content.
         - As a website owner, I would like to provide my clients with a clean and easy to navigate website.
     - ___User___
         - _New User_
-            - As a new user, I would like to peruse some images and videos that contain funny pets.
-            - As a new user, I would like to be able to signup to a weekly or monthly newsletter.
+            - As a new user, I would like to peruse some images and videos that contain cute dogs.
+            - As a new user, I would like to be able to signup to a monthly newsletter.
             - As a new user, I would like to be able to navigate around the website easily.
         - _Returning User_
-            - As a returning user, I would like to peruse the latest content of funny pets.
+            - As a returning user, I would like to peruse the latest content of cute and funny dogs.
             - As a returning user, I would like to be able to update the email address associated with the newsletter mailing list.
             - As a returning user, I would like to navigate around the website as easily as I did the first time.
 
@@ -72,12 +72,12 @@ This project is for educational purposes and can not be used as a template for a
     - _Navigation Bar_
         - This will contain the website logo to the left.
         - This will be used for ease of navigation through the site with links to Home, Gallery and Sign Up to the right.
-        - This will remain static at the top of the website.
-        - This will be responsive adjusting to the device being used.
+        - This will remain fixed at the top while scrolling.
+        - This will be responsive, adjusting to the device being used.
     - _Gallery_
-        - This will showcase some of the funny images and videos of pets found from searching the internet.
+        - This will showcase some of the best images and videos of dogs found from searching the internet.
     - _Sign Up_
-        - This will allow the ability to signup to a weekly or monthly newsletter that provides an update of the newest website content.
+        - This will allow the ability to signup to a monthly newsletter that provides an update of the newest website content.
 - ___Features to Implement___
     - _Search Bar_
         - This will allow users to search for images or videos that cover a specific search term.
@@ -94,7 +94,7 @@ This project is for educational purposes and can not be used as a template for a
 ### __Styling__
 - ___Structure___
     - The website is designed to be easy and user-friendy whether viewed on a desktop, a tablet or a mobile device. There should be minimal difference for a user providing a fantastic experience.
-    - The website will be a 3 page scrollable site with the Navigation Bar remaining static at the top so the links are easy to access.
+    - The website will be a 3 page scrollable site with the Navigation Bar remaining fixed at the top so the links are easy to access.
     - The website will contain areas for navigation, a gallery and a place to signup to a newsletter.
 - ___Typography___
     - _Main Font_: A specific one was not chosen for this project.
@@ -128,7 +128,7 @@ This project is for educational purposes and can not be used as a template for a
 - ___Functionality___
     - My functionality testing was done using differnet browsers and their Developer tools throughout the project to test and resolve any issues with responsiveness or styling.
 - ___Compatibility___
-    - I tested the functionality over the following different browsers and mobile devices:
+    - I tested the functionality over the following different browsers and devices:
         - MacBook Air:
             - Google Chrome
             - Safari
@@ -148,7 +148,7 @@ This project is for educational purposes and can not be used as a template for a
 
 ---
 ### __Deployment__
-To deploy my project to GitHub Pages, I will take the following steps:
+To deploy my project to GitHub Pages, I took the following steps:
 1. Login to [GitHub](https://github.com).
 2. Navigate to the relevant repository.
 3. Click Settings.
