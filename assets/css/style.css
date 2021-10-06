@@ -45,7 +45,7 @@ p {
 
 /* ---------------------------------------------- SPLITTER IMAGE */
 
-#splitter {
+#splitter1 {
     padding-top: 10px;
 }
 
@@ -64,6 +64,39 @@ p {
 
 #photo img{
     width: 100%;
+}
+
+/* ------------------------------------------------- SIGNUP FORM */
+
+#signup {
+    padding: 20px 30px;
+}
+
+.signup-form {
+    text-align: center;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 20px;
+    display: grid;
+    place-items: center;
+}
+
+.signup-form p {
+    padding-bottom: 20px;
+}
+
+/* ------------------------------------------ SIGNUP FORM BUTTON */
+
+.join-button {
+    border-radius: 10px;
+    padding: 10px 50px;
+    background-color: rgba(60, 60, 60, 0.6);
+    color: #fafafa;
+}
+
+.join-button:hover {
+    background-color: #fafafa;
+    color: rgba(60, 60, 60, 0.6);
 }
 
 /* ---------------------------------- RESPONSIVE DESIGN ELEMENTS */
@@ -98,5 +131,8 @@ p {
     }
     #photo {
         column-count: 4;
+    }
+    .signup-form {
+        display: inline-block;
     }
 }
