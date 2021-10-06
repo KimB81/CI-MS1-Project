@@ -7,7 +7,7 @@ This project is for educational purposes and can not be used as a template for a
 
 [Link to Mobile Wireframes](wireframes/MobileView.png)
 
-[Link to Live Project in GitHub Pages]()
+[Link to Live Project in GitHub Pages](https://kimb81.github.io/CI-MS1-Project/)
 
 ---
 ## Table of Contents
@@ -23,7 +23,7 @@ This project is for educational purposes and can not be used as a template for a
     - [Colours](#colors)
 - [Technology](#technology)
 - [Testing](#testing)
-    - [Validation](#validation)
+    - [Validation](#validation-testing)
     - [Functionality](#functionality)
     - [Compatability](#compatability)
     - [Performance](#performance)
@@ -97,7 +97,7 @@ This project is for educational purposes and can not be used as a template for a
     - The website will be a 3 page scrollable site with the Navigation Bar remaining static at the top so the links are easy to access.
     - The website will contain areas for navigation, a gallery and a place to signup to a newsletter.
 - ___Typography___
-    - _Main Font_: To be decided.
+    - _Main Font_: A specific one was not chosen for this project.
 - ___Colours___
     - _Website Background_: Light Grey
     - _Website Font_: rgba(60, 60, 60, 0.8)
@@ -117,24 +117,32 @@ This project is for educational purposes and can not be used as a template for a
 - ___[Git](https://git-scm.com/)___: A useful tool to track versions of the website.
 - ___[GitHub](https://github.com/)___: A useful tool to host the project in a remote location.
 - ___[GitPod](https://www.gitpod.io/)___: A useful tool for creating and editing the code for the website.
-- ___[Google Fonts](https://fonts.google.com/)___: A resource for different fonts.
-- ___[Font Awesome](https://fontawesome.com/)___: A resource for icons.
 
 [Back to Table of Contents](#table-of-contents)
 
 ---
 ### __Testing__
 - ___Validation Testing___
-    - _[HTML Validation Link]()_ Validated [here](https://validator.w3.org/)
-    - _[CSS Validation Link]()_ Validated [here](http://jigsaw.w3.org/css-validator/)
+    - _[HTML Validation Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkimb81.github.io%2FCI-MS1-Project%2F)_ Validated [here](https://validator.w3.org/)
+    - _[CSS Validation Link](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkimb81.github.io%2FCI-MS1-Project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)_ Validated [here](http://jigsaw.w3.org/css-validator/)
 - ___Functionality___
-    - My functionality testing will be done using differnet browsers and their Developer tools throughout the project to test and resolve any issues with responsiveness or styling.
+    - My functionality testing was done using differnet browsers and their Developer tools throughout the project to test and resolve any issues with responsiveness or styling.
 - ___Compatibility___
-    - I plan on testing the functionality over different browsers and mobile devices. I will list the browsers and devices here.
+    - I tested the functionality over the following different browsers and mobile devices:
+        - MacBook Air:
+            - Google Chrome
+            - Safari
+            - FireFox
+        - iPhone 7s
+            - Google Chrome
+            - Safari
+            - FireFox
 - ___Performance___
-    - I plan on utilising [Googles Lighthouse](https://developers.google.com/web/tools/lighthouse) feature to check on my websites performance throughout the project and adjust things as necessary.
+    - I utilised [Googles Lighthouse](https://developers.google.com/web/tools/lighthouse) feature to check on my websites performance throughout the project and adjusted things as necessary. The following is the end results:
+        - [LightHouse Results Mobile](lighthouse/lighthouseresultsmobile.pdf)
+        - [LightHouse Results Desktop](lighthouse/lighthouseresultsdesktop.pdf)
 - ___Bugs___
-    - Here I will document any bugs I encounter and how I fixed them, if applicable
+    - I did not encounter any bugs while creating this website.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -159,7 +167,7 @@ To deploy my project to GitHub Pages, I will take the following steps:
     - I used the [GitHub Guide for Mastering Markdown](https://guides.github.com/features/mastering-markdown/) to help with the formatting of this README.md.
     - I used the [BootStrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/) to help with the creation of this website.
 - ___Content___
-    - Here I will credit any third party content I use for Krazy Kanines.
+    - I did not utilise any third party content for this website.
 - ___Media___
     - _Hero Image:_ Anoir Chafik: https://unsplash.com/photos/2_3c4dIFYFU 
     - _Splitter Image 1:_ Bharathi Kannan: https://unsplash.com/photos/rfL-thiRzDs
@@ -181,7 +189,7 @@ To deploy my project to GitHub Pages, I will take the following steps:
 
 ---
 # Thank you
-Thank you for taking the time to look through my README file for my Krazy Kanines project.
+Thank you for taking the time to look through my README file for my Krazy 4 K-9s project.
 
 [Back to Table of Contents](#table-of-contents)
 
