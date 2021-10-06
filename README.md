@@ -9,6 +9,10 @@ This project is for educational purposes and can not be used as a template for b
 
 [Link to Live Project in GitHub Pages](https://kimb81.github.io/CI-MS1-Project/)
 
+[Link to Am I Responsive? Website](http://ami.responsivedesign.is/?url=https%3A%2F%2Fkimb81.github.io%2FCI-MS1-Project%2F#)
+
+![Responsive Design](assets/img/airimage.png)
+
 ---
 ## Table of Contents
 - [UX](#ux)
