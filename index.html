@@ -8,10 +8,7 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" 
-    integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous">
-    </script>
-
+    
     <link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
 
     <title>Krazy 4 Kanines</title>
@@ -21,7 +18,7 @@
 
     <header class="container-fluid">
         <!-- Navbar -->
-        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.html">Krazy 4 K-9s</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,10 +30,10 @@
                             <a class="nav-link" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Gallery</a>
+                            <a class="nav-link" href="#gallery">Gallery</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Signup</a>
+                            <a class="nav-link" href="#signup">Signup</a>
                         </li>
                     </ul>
                 </div>
@@ -49,7 +46,7 @@
 
         <!-- Hero Image: Credit goes to Anoir Chafik: https://unsplash.com/photos/2_3c4dIFYFU -->
         <div class="row">
-            <img src="assets/img/heroimage.jpeg" alt="3 cute puppies in the street" class="img-fluid"></a>
+            <img src="assets/img/heroimage.jpeg" alt="3 cute puppies in the street" class="img-fluid">
         </div>
         <!-- End of Hero Image -->
 
@@ -74,7 +71,7 @@
         <!-- Splitter Image: Credit goes to Bharathi Kannan: https://unsplash.com/photos/rfL-thiRzDs -->
 
         <div id="splitter1" class="row">
-            <img src="assets/img/splitterimage1.jpeg" alt="5 yellow labrador puppies" class="img-fluid"></a>
+            <img src="assets/img/splitterimage1.jpeg" alt="5 yellow labrador puppies" class="img-fluid">
         </div>
 
         <!-- End of Splitter Image -->
@@ -83,18 +80,18 @@
         <div class="row">
             <h2 id="gallery" class="text-center">Gallery</h2>
                 <div id="photo">
-                    <img src="assets/img/gallery1.jpg" alt="2 dogs running" class="img-fluid"></a>
-                    <img src="assets/img/gallery2.jpg" alt="dog with flower in mouth" class="img-fluid"></a>
-                    <img src="assets/img/gallery3.jpg" alt="7 australian sheepdog puppies" class="img-fluid"></a>
-                    <img src="assets/img/gallery4.jpg" alt="5 german shepherd puppies in a basket" class="img-fluid"></a>
-                    <img src="assets/img/gallery5.jpg" alt="beagle puppy face" class="img-fluid"></a>
-                    <img src="assets/img/gallery6.jpg" alt="3 puppies under a blanket" class="img-fluid"></a>
-                    <img src="assets/img/gallery7.jpg" alt="boxer puppy" class="img-fluid"></a>
-                    <img src="assets/img/gallery9.jpg" alt="floating dog with sunglasses" class="img-fluid"></a>
-                    <img src="assets/img/gallery10.jpg" alt="dog wanting a high five" class="img-fluid"></a>
-                    <img src="assets/img/gallery11.jpg" alt="3 german shepherds" class="img-fluid"></a>
-                    <img src="assets/img/gallery12.jpg" alt="sunbathing dog with sunglasses" class="img-fluid"></a>
-                    <img src="assets/img/gallery8.jpg" alt="dog with glasses reading" class="img-fluid"></a>
+                    <img src="assets/img/gallery1.jpg" alt="2 dogs running" class="img-fluid">
+                    <img src="assets/img/gallery2.jpg" alt="dog with flower in mouth" class="img-fluid">
+                    <img src="assets/img/gallery3.jpg" alt="7 australian sheepdog puppies" class="img-fluid">
+                    <img src="assets/img/gallery4.jpg" alt="5 german shepherd puppies in a basket" class="img-fluid">
+                    <img src="assets/img/gallery5.jpg" alt="beagle puppy face" class="img-fluid">
+                    <img src="assets/img/gallery6.jpg" alt="3 puppies under a blanket" class="img-fluid">
+                    <img src="assets/img/gallery7.jpg" alt="boxer puppy" class="img-fluid">
+                    <img src="assets/img/gallery9.jpg" alt="floating dog with sunglasses" class="img-fluid">
+                    <img src="assets/img/gallery10.jpg" alt="dog wanting a high five" class="img-fluid">
+                    <img src="assets/img/gallery11.jpg" alt="3 german shepherds" class="img-fluid">
+                    <img src="assets/img/gallery12.jpg" alt="sunbathing dog with sunglasses" class="img-fluid">
+                    <img src="assets/img/gallery8.jpg" alt="dog with glasses reading" class="img-fluid">
                 </div>
         </div>
         <!-- End of Gallery -->
@@ -102,7 +99,7 @@
         <!-- Splitter Image: Credit goes to Chino Rocha: https://unsplash.com/photos/3E1ElNEoYww -->
 
         <div id="splitter2" class="row">
-            <img src="assets/img/splitterimage2.jpeg" alt="Hunting Hounds" class="img-fluid"></a>
+            <img src="assets/img/splitterimage2.jpeg" alt="Hunting Hounds" class="img-fluid">
         </div>
 
         <!-- End of Splitter Image -->
@@ -130,16 +127,26 @@
 
         <!-- Social Media Links -->
         <div class="row">
-            <ul>
-                <li>Facebook</li>
-                <li>Twitter</li>
-                <li>Instagram</li>
+            <ul class="social-networks">
+                <li>
+                    <a href="https://www.facebook.com" target="_blank">Facebook</a>
+                </li>
+                <li>
+                    <a href="https://www.twitter.com" target="_blank">Twitter</a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com" target="_blank">Instagram</a>
+                </li>
             </ul>
         </div>
         <!-- End of Social Media Links -->
 
     </footer>
 
-</body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous">
+    </script> 
+
+</body> 
 
 </html>

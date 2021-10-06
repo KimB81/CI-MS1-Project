@@ -1,5 +1,7 @@
 body {
     background-color: lightgrey;
+    color: rgba(60, 60, 60, 0.8);
+    padding-top: 65px;
 }
 
 .container-fluid {
@@ -74,7 +76,7 @@ p {
 
 .signup-form {
     text-align: center;
-    color: #fff;
+    color: #fafafa;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 20px;
     display: grid;
@@ -99,9 +101,38 @@ p {
     color: rgba(60, 60, 60, 0.6);
 }
 
+/* ---------------------------------------- SOCIAL NETWORK LINKS */
+
+footer {
+    height: 50px;
+}
+
+.social-networks {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba(60, 60, 60, 0.6);
+    color: #fafafa;
+}
+
+.social-networks a {
+    color: #fafafa;
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.social-networks li {
+    display: inline;
+    text-decoration: none;
+}
+
 /* ---------------------------------- RESPONSIVE DESIGN ELEMENTS */
 
 @media (min-width: 768px) {
+    body {
+        padding-top: 110px;
+    }
     .navbar {
         padding: 20px;
     }
@@ -113,9 +144,6 @@ p {
     .nav-link {
         margin: 15px;
     }
-    .container-fluid {
-        padding: 0px 12px;
-    }
     .h-div {
         border-right: 2px solid black;
         border-bottom: none;
@@ -123,7 +151,7 @@ p {
     #heading {
         padding: 20px 30px;
     }
-    #splitter {
+    #splitter1 {
         padding-top: 20px;
     }
     #gallery {

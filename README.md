@@ -99,9 +99,12 @@ This project is for educational purposes and can not be used as a template for a
 - ___Typography___
     - _Main Font_: To be decided.
 - ___Colours___
-    - _Background_: Light Grey
-    - _Font_: To be decided.
-    - _Link_: To be decided.
+    - _Website Background_: Light Grey
+    - _Website Font_: rgba(60, 60, 60, 0.8)
+    - _Form Background_: rgba(60, 60, 60, 0.6)
+    - _Form Font_: #fafafa
+    - _Link Background_: #fafafa
+    - _Link Font_: rgba(60, 60, 60, 0.6)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -159,7 +162,7 @@ To deploy my project to GitHub Pages, I will take the following steps:
     - Here I will credit any third party content I use for Krazy Kanines.
 - ___Media___
     - _Hero Image:_ Anoir Chafik: https://unsplash.com/photos/2_3c4dIFYFU 
-    - _Splitter Image:_ Bharathi Kannan: https://unsplash.com/photos/rfL-thiRzDs
+    - _Splitter Image 1:_ Bharathi Kannan: https://unsplash.com/photos/rfL-thiRzDs
     - _Gallery 1:_ Alvan Nee: https://unsplash.com/photos/1VgfQdCuX-4
     - _Gallery 2:_ Richard Brutyo: https://unsplash.com/photos/Sg3XwuEpybU
     - _Gallery 3:_ Jametlene Reskp: https://unsplash.com/photos/VDrErQEF9e4
@@ -172,6 +175,7 @@ To deploy my project to GitHub Pages, I will take the following steps:
     - _Gallery 10:_ Camylla Battani: https://unsplash.com/photos/AoqgGAqrLpU
     - _Gallery 11:_ Marc Schaefer: https://unsplash.com/photos/WqYSX5yZXgc
     - _Gallery 12:_ Josh Rakower: https://unsplash.com/photos/zBsXaPEBSeI
+    - _Splitter Image 2:_ Chino Rocha: https://unsplash.com/photos/3E1ElNEoYww
 
 [Back to Table of Contents](#table-of-contents)
 
