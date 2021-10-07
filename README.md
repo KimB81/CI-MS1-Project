@@ -37,6 +37,7 @@ This project is for educational purposes and can not be used as a template for b
     - [Code](#code)
     - [Media](#media)
 - [Thank You](#thank-you)
+- [Screenshots](#screenshots)
 
 ---
 
@@ -198,8 +199,12 @@ Thank you for taking the time to look through my README file for my Krazy 4 K-9s
 [Back to Table of Contents](#table-of-contents)
 
 ---
-
+# Screenshots
 ![Desktop Version Website](assets/img/desktop.png)
 ![iPad Version Website](assets/img/iPad.png)
 ![iPhone X Version Website](assets/img/iPhoneX.png)
 ![iPhone 5 Version Website](assets/img/iPhone5.png)
+
+[Back to Table of Contents](#table-of-contents)
+
+---
