@@ -163,6 +163,14 @@ To deploy my project to GitHub Pages, I took the following steps:
 7. The page should auto refresh and show a confirmation message and link.
 8. Add the link to the About section for the repository.
 
+To run this project locally, you will need to do the following:
+1. Login to [GitHub](https://github.com).
+2. Navigate to the relevant repository.
+3. Click Code and choose the Download ZIP option.
+4. After the ZIP has downloaded, you can extract the files and use it in your local environment.
+
+Alternatively, you can [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this project to your own GitHub account.
+
 [Back to Table of Contents](#table-of-contents)
 
 ---
